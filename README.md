@@ -1,5 +1,9 @@
 # Salesforce-Class
 
+- Zoom Link: https://zoom.us/j/93976264086?pwd=MU9IcC9PbXJmcTU1eS8yczFVUjNoUT09 
+- Zoom Credential:-  
+                   - Zoom Id : 939 7626 4086 
+                   - passcode:salesforce
 
 -------------------------------------------------------------------
 **DAY-1--31-01-2021
