@@ -8,7 +8,7 @@
 -------------------------------------------------------------------
 **DAY-1--31-01-2021
 - VIDEO LINK:https://youtu.be/rW-hrimHdyY
-- DISCOUSSED TOPICS:-
+- DISCUSSED TOPICS:-
   - INTRODUCTION
   - SALES FORCE--IT IS A CRM TOOL WHICH INCLUDES ALL MODULES IN SINGLE PLATFORM AND IT IS A CLOUD COMPUTIONG PLATFORM
   - CLOUD COMPUTING--STORE THE DATA,PROCESS THE DATA,ACCESS THE DATA THROUGH SERVER WITH HELP OF INTERNET
@@ -17,4 +17,4 @@
 -----------------------------------------------------------------------
 **DAY-2--01-02-2021
 - VIDEO LINK:
-- DISCOUEEED TOPICS:-
+- DISCUSSED TOPICS:-
