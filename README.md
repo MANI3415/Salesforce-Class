@@ -46,4 +46,34 @@
 **DAY-3--02-02-2022
 - VIDEO LINK:
 - DISCUSSED TOPICS:-
-  - 
+- https://trailhead.salesforce.com/content/learn/modules/data_modeling?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners
+
+- Understand Custom & Standard Objects:-
+ - Build a Custom Offer Object
+   1. create custom object(Offer)--give the required values
+   2. goto Offer object--select field & relationship--give the required values
+
+- Create Object Relationship:-
+ - Create The Relationships For The Offer Object
+   1. create custom object(property) and alredy Offer object is created
+   2. goto Offer object--goto field & relationship--and give data types:Master Detail,field label:property,field name:property
+   3. goto Offer object--goto field & relationship--and give data types:lookup,field label:contact,field name:contact
+           
+- Work With Schema Builder:-
+  - Challenge:-
+    - Use Schema Builder To Create A Custom Field For The Property Object
+   1. Goto Object Manager--Select Schema Builder-Select Object Find The Property Object Select Checkbox-Click Element--Select The Text Area--Give The Field Label:Street Address,Field Name:Street_Address,And Select The Checkbox.
+
+- Master-Detail Relationship:-
+  - Branch is parent
+  - students is child
+    - Branch is Deleted Automatically Students also Delete
+    - Parent is Deleted Automatically Child also Delete
+
+---------------------------------------------------------------------------------------------------------------
+**DAY-4-03-02-2022
+- VIDEO LINK:
+- DISCUSSED TOPICS:-
+- 
+
+   
