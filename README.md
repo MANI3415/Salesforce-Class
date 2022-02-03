@@ -74,9 +74,34 @@
 **DAY-4-03-02-2022
 - VIDEO LINK:
 - DISCUSSED TOPICS:-
-- one to many relationship using 
+- Lookup Relationship:-
+  - Creates a relationship that links this object to another object. The relationship field allows users to click on a lookup icon to select a value from a popup list. The other object is the source of the values in the list.
+  - example:-
+  - Account to Contact 
+  - we create the contacts to account lookup relation we delete account record data and we related data of contact also deleted.
+- one to many relationship using master details and lookup
 - many to many ralationship using master details in junction object
-- self relationship  using look up using same object
-- 
+- many to many relationship creation:-
+  1. first we create student group is junction object
+  2. secound we create student object,branch object
+  3. we go for junction object(student group)--select new--using master details--select one by one student object and branch object
+  4. now we check the junction object select new--now we see to many to many relationship
+- example:-
+  - student group Name
+  - unity
+  - student
+  - mani
+  - group
+  - mechanical
 
-   
+- self relationship creation look up using same object
+- self relationship creation:-
+  1. we go for one created object we using lookup relationship we create self relationship
+- example:-
+  - student Name
+  - mani
+  - branch
+  - MECH
+  - Refer_by
+  - S10
+
