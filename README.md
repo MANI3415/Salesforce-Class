@@ -1,5 +1,5 @@
 # Salesforce-Class
-
+- whatsapp group link for boys:https://chat.whatsapp.com/EcKAZJsvJaq8XSo7QFoWHT
 - Zoom Link: https://zoom.us/j/93976264086?pwd=MU9IcC9PbXJmcTU1eS8yczFVUjNoUT09 
 - Zoom Credential:-  
                    - Zoom Id : 939 7626 4086 
@@ -74,6 +74,9 @@
 **DAY-4-03-02-2022
 - VIDEO LINK:
 - DISCUSSED TOPICS:-
+- one to many relationship using 
+- many to many ralationship using master details in junction object
+- self relationship  using look up using same object
 - 
 
    
