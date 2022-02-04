@@ -105,3 +105,8 @@
   - Refer_by
   - S10
 
+---------------------------------------------------
+https://trailhead.salesforce.com/en/content/learn/modules/picklist_admin/picklist_admin_start
+https://trailhead.salesforce.com/en/content/learn/modules/picklist_admin/picklist_admin_start
+https://trailhead.salesforce.com/content/learn/modules/leads_opportunities_lightning_experience?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners
+
