@@ -115,8 +115,8 @@ Day-5-(04-02-2021)
 ----------------------
 - VIDEO LINK:
 - DISCUSSED TOPICS:-
-- APP MANAGER CREATION:-
-  - Search Quick Find--App Manager--Select New Lightning App--give the app name--next--next--select the navigation items--next--save&next
+- APP CREATION:-
+  - Search Quick Find--App Manager--Select New Lightning App--give the app name--next--next--select the navigation items--next--select the system administrator--save&next
 - students to create 2 picklist----1.city 2.country
   1. label--city
     - enter vale
@@ -153,3 +153,6 @@ Day-5-(04-02-2021)
 -------------------------------------------------------------------------------------------------
 - Day-6-(07-02-2022)
 --------------------
+- VIDEO LINK:
+- DISCUSSED TOPICS:-
+- Pending
