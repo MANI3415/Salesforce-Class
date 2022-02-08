@@ -155,4 +155,38 @@ Day-5-(04-02-2021)
 --------------------
 - VIDEO LINK:
 - DISCUSSED TOPICS:-
-- Pending
+- Validation Rule Creation:-
+- Example:-No:1 (Course Duration Creation In Student Object)
+- when open new record give the starting data is Always Greater then (>) the ending date other wise give the error
+  1. Goto Student Object--Create 2 Reports using Date Data Type--one is starting Date and Second is Ending Date--next-save
+  2. Goto Student Object--Select Validation Rules--new--give the Rule Name (Duration) and Error Condition Formula (Starting_date__c > Ending_Date__c) and also give the Error Message--save
+- Example:-No:2 (using opportunity object)
+- when open new record select the closed won and it is mandatary to fill the close reason other wise give the Error Message
+  1. Goto opportunity object--select text data type--give the Field Name (close reason) --next--save
+  2. Goto Validation Rule--new--Give the Rule Name And Error Condition Formula (ISPICKVAL(StageName, "Closed Won") && ISBLANK( close_reason__c )) and also give the Error Message--Save
+- Example:-No:3 (using Lead object)
+- when open new record select closed-converted and is mandatary to fill the AnnualRevenue other wise give the Error Message
+  1. Goto Lead Object--Select validation Rule--new--Give the Rule Name And Error Condition Formula (ISPICKVAL(Status, "Closed - Converted") && ISBLANK(AnnualRevenue)) and also give the Error Message--save
+
+- Task Links:-no-4
+  1. Create Validation Rules:-
+- https://trailhead.salesforce.com/en/content/learn/modules/point_click_business_logic/validation_rules
+-------------------------------------------------------------------------------------------
+- Day-7--(08-02-2022)
+- video link:
+- Validation Rule Creation:-
+- Example:-No:4 (Account Name validation In Account Object)
+- When Open New Record give the Account name do not allow the special characters if enter it is showing error message
+  1. Goto Account Object--Select Validation Rule--New--Give The Rule Name(Account_Name_validation) And Description(no one can add any special character in Account Name)--And Give The Error Condition Formula (NOT(REGEX(Name,"[a-zA-Z]+"))--And give Error Message--Save
+- Formula Creation:-
+  - It is Only Readable Data Do not Modify
+- Example:-
+  1. Goto Student Object--create 2 text data type fields--save
+  2. Goto Student Object --Select Formula Data type--Give The Field Name--Next--Select Advance Formula (Name  +  student_Last_Name__c)next--next--save
+- Task Links:-no-5
+  1. Formulas and Validations:-
+- https://trailhead.salesforce.com/en/content/learn/modules/point_click_business_logic
+---------------------------------------------------------------------------
+ - Day-8--(09-02-2022)
+ - video link:
+ - 
