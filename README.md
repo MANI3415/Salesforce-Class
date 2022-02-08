@@ -174,6 +174,7 @@ Day-5-(04-02-2021)
 -------------------------------------------------------------------------------------------
 - Day-7--(08-02-2022)
 - video link:
+- DISCUSSED TOPICS:-
 - Validation Rule Creation:-
 - Example:-No:4 (Account Name validation In Account Object)
 - When Open New Record give the Account name do not allow the special characters if enter it is showing error message
