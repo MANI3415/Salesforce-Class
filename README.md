@@ -187,7 +187,130 @@ Day-5-(04-02-2021)
 - Task Links:-no-5
   1. Formulas and Validations:-
 - https://trailhead.salesforce.com/en/content/learn/modules/point_click_business_logic
----------------------------------------------------------------------------
- - Day-8--(09-02-2022)
- - video link:
- - 
+- Roll-Up Creation:-
+- A read-only field that displays the sum, minimum, or maximum value of a field in a related list or the record count of all records listed in a related list.
+-------------------------------------------
+- DAY-8--09-02-2022
+----------------- 
+- Record Type Creation:-
+- record type:
+  1. Goto Student Object Select Record Type
+     - choose the Master
+     - give the Record Type Label (salesforce Student)
+     - Description (We are storing the data of salesforce students)
+  2. Goto srudent object select Record Type
+     - choose the Master 
+     - give the Record Type Label (Blockchain Students)
+     - Description ()
+- Blockchain:-
+  - stored the data from blocks
+  - fully encypted
+  - without 3rd party involved
+  - Example:-cryptocurrency (Bitcoin)
+   3. now we go for page layouts
+      - select new
+      - select student layout
+      - and give page layout name (BlockChain PageLayout)
+      - Save
+   4. create another page Layout
+      - select new
+      - select student Layout
+      - and give page layout name(SalesForce Page Layout)
+      - save
+   5. Goto Record Types
+      - edit page layout assignment--student
+      - page layout to use--blockchain pagelayout to blockchain student
+      - page layout to use--salesforce pagelayout to salesforce student
+      -save
+-------------------------------
+- DAY-9--11-02-2022
+--------------
+- its showing  which field is showing in select field record
+  1. Salesforce Fee Showing Only Salesforce PageLayout
+     - Goto student object--select new--select text--Give Field Label (Salesforce Fee)--next--disable the Blockchain PageLayout
+  2. BlockChain Course Fee Showing Only BlockChain PageLayout
+     - Goto student object--select new--select text--Give Field Label (BlockChain Course Fee)--next--disable the Salesforce PageLayout
+
+- How to identify the values in background in salesforce ?
+  - Every Records have Generate the Unique id
+- SOQL ?
+  - It is a Database of Salesforce
+  - (Salesforce Object Query Language) together give the developers powerful tools for managing Salesforce data and processes of their application.
+- Goto Developer Console
+  - select the Query Editor
+     1. Check the id's From Account
+        - select Id From Account--Execute
+     2. check the count from Account
+        - SELECT COUNT() FROM Account--Execute
+     3. check the ID,Name,AccountNumber,Active_c,OwnerId From Account
+        - SELECT ID,Name,AccountNumber,Active_c,OwnerId From Account--Execute
+
+- Goto Home--Select Users--and selcet username of Trainer Salesforce--copy the id
+- goto account object select field&relationship--copy the field name of (Active)
+     4. where location to find the value
+        - SELECT ID,Name,AccountNumber,Active_c,OwnerId From Account WHERE id=" "--Execute
+- Task Links:-no-6
+  1. Write SOQL Queries
+- https://trailhead.salesforce.com/en/content/learn/modules/apex_database/apex_database_soql
+
+------------------------------------------------------------
+- DAY-10--12-02-2022
+-------------------
+- Goto Developer Console--select Query Editor
+1. using Limit
+   - Select id From Account Limit 10--Execute
+2. check the number of counts 
+   - Select Count() From Account--Execute
+3. check the id from account
+   - Select id From Account--Execute
+- Goto Account object select Field &Relation--copy the select field names
+4. InnerQuery
+   - SELECT Id,Name,AccountNumber,(SELECT iD,EMAIL,Phone,Title From Contacts) From Account)--Execute
+
+- Task
+- Relationship Queries in SOQL parent to child in Master relationship in custom relationship field
+- example:1
+  - student is parent
+  - student groups is child
+  - select id,name,(select id,CreatedById,Name from student_groups__r)from student__c
+- example:2
+  - branch is parent
+  - student is child 
+- select id,name,(select id,student_Full_Name__c from students__r)from branch__c
+
+
+- Task Links:-no-7
+  1. Customize a Salesforce Object
+- https://trailhead.salesforce.com/content/learn/projects/customize-a-salesforce-object?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners
+  2. Salesforce CRM
+- https://trailhead.salesforce.com/content/learn/modules/lex_implementation_basics?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners
+  3. Formulas and Validations
+- https://trailhead.salesforce.com/content/learn/modules/point_click_business_logic?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners
+  4. Customize the User Interface for a Recruiting App
+- https://trailhead.salesforce.com/content/learn/projects/customize-the-ui-for-a-recruiting-app?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners
+
+---------------------------------------------------------------------
+- DAY-11--15-02-2022
+-----------------------
+- Salesforce Licensing:
+  
+- Data Security:
+  - salesforce security model
+    1. Organization Level Security 
+    2. Object Level
+    3. Field Level
+    4. Record Level
+       - Organization-Wide-Defaults
+       - Role Hierarchy
+       - Sharing Rule
+       - Manual Sharing
+
+- TASK LICKS:-NO-8
+- Salesforce Licensing
+  - https://trailhead.salesforce.com/en/content/learn/modules/salesforce-licensing
+- Data Security
+  - https://trailhead.salesforce.com/en/content/learn/modules/data_security
+
+-------------------------------------------------------------------------------------------------
+- day-12--(17-02-2022)
+- 
