@@ -106,7 +106,7 @@
     - rohit
 
 - **Task:-no:-2**
-  1. **Build a Data Model for a Recruiting App:-**
+  1. **Build a Data Model for a Recruiting App:-(5/5)**
 - [TASK-NO-2](https://trailhead.salesforce.com/en/content/learn/projects/build-a-data-model-for-a-recruiting-app)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -141,11 +141,11 @@ Day-5-(04-02-2021)
   - goto student object--select field&relationship--select field dependendies--new--select Controlling Field--select Dependent Field--select the included values in the controlling fields--save
 
 - **TASK LINKS:-no-3**
-  1. **Picklist Administration:-**
+  1. **Picklist Administration:-(3/3)**
      - [Picklist Administration](https://trailhead.salesforce.com/content/learn/modules/picklist_admin)
-  2. **Accounts & Contacts for Lightning Experience:-**
+  2. **Accounts & Contacts for Lightning Experience:-(2/2)**
      - [Accounts & Contacts for Lightning Experience](https://trailhead.salesforce.com/content/learn/modules/accounts_contacts_lightning_experience?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
-  3. **Leads & Opportunities for Lightning Experience:-**
+  3. **Leads & Opportunities for Lightning Experience:-(4/4)**
      - [Leads & Opportunities for Lightning Experience](https://trailhead.salesforce.com/content/learn/modules/leads_opportunities_lightning_experience?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
 
 -------------------------------------------------------------------------------------------------
@@ -166,7 +166,7 @@ Day-5-(04-02-2021)
   1. Goto Lead Object--Select validation Rule--new--Give the Rule Name And Error Condition Formula (ISPICKVAL(Status, "Closed - Converted") && ISBLANK(AnnualRevenue)) and also give the Error Message--save
 
 - **Task Links:-no-4**
-  1. **Create Validation Rules:-**
+  1. **Create Validation Rules:-(1/1)**
 - [Create Validation Rules](https://trailhead.salesforce.com/en/content/learn/modules/point_click_business_logic/validation_rules)
 -------------------------------------------------------------------------------------------
 **Day-7--(08-02-2022)**
@@ -182,8 +182,8 @@ Day-5-(04-02-2021)
   1. Goto Student Object--create 2 text data type fields--save
   2. Goto Student Object --Select Formula Data type--Give The Field Name--Next--Select Advance Formula (Name  +  student_Last_Name__c)next--next--save
 - **Task Links:-no-5**
-  1. Formulas and Validations:-
-- [Formulas and Validations](https://trailhead.salesforce.com/en/content/learn/modules/point_click_business_logic)
+   1. **Formulas and Validations:-(2/2)**
+      - [Formulas and Validations](https://trailhead.salesforce.com/en/content/learn/modules/point_click_business_logic)
 - **Roll-Up Creation:-**
 - A read-only field that displays the sum, minimum, or maximum value of a field in a related list or the record count of all records listed in a related list.
 -------------------------------------------
@@ -247,7 +247,7 @@ Day-5-(04-02-2021)
      4. where location to find the value
         - SELECT ID,Name,AccountNumber,Active_c,OwnerId From Account WHERE id=" "--Execute
 - **Task Links:-no-6**
-  1. **Write SOQL Queries**
+  1. **Write SOQL Queries:-(0/1)**
 - [Write SOQL Queries](https://trailhead.salesforce.com/en/content/learn/modules/apex_database/apex_database_soql)
 
 ------------------------------------------------------------
@@ -278,13 +278,13 @@ Day-5-(04-02-2021)
 
 
 - **Task Links:-no-7**
-  1. **Customize a Salesforce Object**
+  1. **Customize a Salesforce Object:(0/8)**
      - [Customize a Salesforce Object](https://trailhead.salesforce.com/content/learn/projects/customize-a-salesforce-object?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
-  2. **Salesforce CRM**
+  2. **Salesforce CRM:(0/2)**
      - [Salesforce CRM](https://trailhead.salesforce.com/content/learn/modules/lex_implementation_basics?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
-  3. **Formulas and Validations**
+  3. **Formulas and Validations:(3/3)**
      - [Formulas and Validations](https://trailhead.salesforce.com/content/learn/modules/point_click_business_logic?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
-  4. **Customize the User Interface for a Recruiting App**
+  4. **Customize the User Interface for a Recruiting App:(0/7)**
      - [Customize the User Interface for a Recruiting App](https://trailhead.salesforce.com/content/learn/projects/customize-the-ui-for-a-recruiting-app?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -303,9 +303,9 @@ Day-5-(04-02-2021)
         - Manual Sharing
 
 - **TASK LICKS:-NO-8**
-  - **Salesforce Licensing**
+  - **Salesforce Licensing:(3/3)**
     - [Salesforce Licensing](https://trailhead.salesforce.com/en/content/learn/modules/salesforce-licensing)
-  - **Data Security**
+  - **Data Security:(7/7)**
     - [Data Security](https://trailhead.salesforce.com/en/content/learn/modules/data_security)
 
 -------------------------------------------------------------------------------------------------
