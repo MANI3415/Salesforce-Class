@@ -279,13 +279,13 @@ Day-5-(04-02-2021)
 
 - **Task Links:-no-7**
   1. **Customize a Salesforce Object**
-- [Customize a Salesforce Object](https://trailhead.salesforce.com/content/learn/projects/customize-a-salesforce-object?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
+     - [Customize a Salesforce Object](https://trailhead.salesforce.com/content/learn/projects/customize-a-salesforce-object?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
   2. **Salesforce CRM**
-- [Salesforce CRM](https://trailhead.salesforce.com/content/learn/modules/lex_implementation_basics?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
+     - [Salesforce CRM](https://trailhead.salesforce.com/content/learn/modules/lex_implementation_basics?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
   3. **Formulas and Validations**
-- [Formulas and Validations](https://trailhead.salesforce.com/content/learn/modules/point_click_business_logic?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
+     - [Formulas and Validations](https://trailhead.salesforce.com/content/learn/modules/point_click_business_logic?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
   4. **Customize the User Interface for a Recruiting App**
-- [Customize the User Interface for a Recruiting App](https://trailhead.salesforce.com/content/learn/projects/customize-the-ui-for-a-recruiting-app?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
+     - [Customize the User Interface for a Recruiting App](https://trailhead.salesforce.com/content/learn/projects/customize-the-ui-for-a-recruiting-app?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 **DAY-11--15-02-2022**
@@ -313,58 +313,58 @@ Day-5-(04-02-2021)
 - **DISCUSSED TOPICS:-**
   - **Data Security:**
   - salesforce security model
-    **1. Organization Level Security:**
-       **1. Network Access:**
-       - it is access the specified ip address only
-          - Goto Quick Find--type Network Access
-          - New
-          - Give the start ip to end ip
-       **2. Password:**
-       - it is protected the password
-          - Goto Quick Find--type passord policies
-          - and give the policies
-       **3. Login Restriction:**
-       - it is allow only the some specified time
-          - Goto Quick Find--type profile
-          - Select stand platform user
-          - Goto last page select the edit of login hours
-          - Give the login hours
-    **2. Object Level**
-    - we are created two users and give the extra excess to the another user
-         - Permissions sets
-         - Extra Security
-         - For user
-      - goto users select permission sets--create new--give label name (Account permission)--and also give the license (salesforce)--save
-      - select permission sets--goto apps--object settings--select account--give the perrmission--object permissions (select the check box read,create,edit)--and select field permission (click the checkbox of account number)--save
-      - goto users select users--select the vanitha user--goto permission set assignments (edit assignments)--select the account permission add--save
-    **3. Field Level**
-    - we created field is visiable or not visiable to the selected user
-       - Profile Level Field
-         - goto student object--create a text type field (data science fee)--and remove the mani admin checkbox--save
-    **4. Record Level**
-       **1. Organization-Wide-Defaults:**
-         - example no:1
-           - Goto Quick Find type sharing settings--select lead object to private--save
-           - goto app launcher select the lead and give the record values--save
-           - search to todays leads
-           - goto users select to profiles--select the another user--select--unselect the last two leads checkboxs--save
-         - example no:2
-           - Goto Quick Find type sharing settings--select oppertunity object to private--save
-           - goto app launcher select the oppertunity and give the record values--save
-           - all opportunities
-           - goto users select to profiles--select the another user--select--unselect the last two opportunity checkboxs--save
-       **2. Role Hierarchy:**
-          - create the rules
-       **3. Sharing Rule:**
-          - select sharing settings
-          - goto lead sharing rules--new--give the
-            1. label name and 
-            2. select based on critira
-            3. select field (city),operator (equals),value (new delhi) 
-            4. give the role,vp marketing 
-            5. Readonly --save
-       **4. Manual Sharing:**
-          - it is direct to share the record
+    1. **Organization Level Security:**
+         1. **Network Access:**
+            - it is access the specified ip address only
+              - Goto Quick Find--type Network Access
+              - New
+              - Give the start ip to end ip
+         2. **Password:**
+            - it is protected the password
+              - Goto Quick Find--type passord policies
+              - and give the policies
+         3. **Login Restriction:**
+             - it is allow only the some specified time
+                - Goto Quick Find--type profile
+                - Select stand platform user
+                - Goto last page select the edit of login hours
+                - Give the login hours
+     2. **Object Level**
+         - we are created two users and give the extra excess to the another user
+           - Permissions sets
+           - Extra Security
+           - For user
+       - goto users select permission sets--create new--give label name (Account permission)--and also give the license (salesforce)--save
+       - select permission sets--goto apps--object settings--select account--give the perrmission--object permissions (select the check box read,create,edit)--and select field permission (click the checkbox of account number)--save
+       - goto users select users--select the vanitha user--goto permission set assignments (edit assignments)--select the account permission add--save
+     3. **Field Level**
+        - we created field is visiable or not visiable to the selected user
+          - Profile Level Field
+            - goto student object--create a text type field (data science fee)--and remove the mani admin checkbox--save
+    4. **Record Level**
+         1. **Organization-Wide-Defaults:**
+         - **example no:1**
+            - Goto Quick Find type sharing settings--select lead object to private--save
+            - goto app launcher select the lead and give the record values--save
+            - search to todays leads
+            - goto users select to profiles--select the another user--select--unselect the last two leads checkboxs--save
+         - **example no:2**
+            - Goto Quick Find type sharing settings--select oppertunity object to private--save
+            - goto app launcher select the oppertunity and give the record values--save
+            - all opportunities
+            - goto users select to profiles--select the another user--select--unselect the last two opportunity checkboxs--save
+         2. **Role Hierarchy:**
+            - create the rules
+         3. **Sharing Rule:**
+            - select sharing settings
+            - goto lead sharing rules--new--give the
+              1. label name and 
+              2. select based on critira
+              3. select field (city),operator (equals),value (new delhi) 
+              4. give the role,vp marketing 
+              5. Readonly --save
+         4. **Manual Sharing:**
+            - it is direct to share the record
             - goto record value and select content--search to user--save
 
 ----------------------------------------------------------------
