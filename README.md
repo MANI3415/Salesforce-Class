@@ -283,7 +283,7 @@
 - **Task Links:-no-7**
   1. **Customize a Salesforce Object:(0/8)**
      - [Customize a Salesforce Object](https://trailhead.salesforce.com/content/learn/projects/customize-a-salesforce-object?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
-  2. **Salesforce CRM:(0/2)**
+  2. **Salesforce CRM:(2/2)**
      - [Salesforce CRM](https://trailhead.salesforce.com/content/learn/modules/lex_implementation_basics?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
   3. **Formulas and Validations:(3/3)**
      - [Formulas and Validations](https://trailhead.salesforce.com/content/learn/modules/point_click_business_logic?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
