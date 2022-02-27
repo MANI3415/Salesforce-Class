@@ -5,8 +5,8 @@
                    - Zoom Id : 939 7626 4086 
                    - passcode:salesforce
 
-----------------------------------------------------------------------------------------------------------------------------------------
-**DAY-1--31-01-2021
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+**DAY-1--31-01-2021**
 - [DAY-1_VIDEO LINK](https://youtu.be/rW-hrimHdyY)
 - **DISCUSSED TOPICS:-**
   1. **INTRODUCTION**
@@ -14,8 +14,8 @@
      - CLOUD COMPUTING--STORE THE DATA,PROCESS THE DATA,ACCESS THE DATA THROUGH SERVER WITH HELP OF INTERNET
      - CRM--CUSTOMER RELATIONSHIP MANAGEMENT
 
----------------------------------------------------------------------------------------------------------------------------------------
-**DAY-2--01-02-2021
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+**DAY-2--01-02-2021**
 - [DAY-2_VIDEO LINK](https://www.youtube.com/watch?v=2Ve6cF2eijk)
 - **DISCUSSED TOPICS:-**
   - SalesForce Account Creation
@@ -39,8 +39,8 @@
    - CHECK THE REPORTS
      1. GOTO APP LAUNCHER--SEARCH OBJECT SELECT--SELECT NEW--THERE ARE TWO FIELD IS THERE--NAME,EMAIL
 
--------------------------------------------------------------------------------------------------------------
-**DAY-3--02-02-2022
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+**DAY-3--02-02-2022**
 - VIDEO LINK:
 - **DISCUSSED TOPICS:-**
 - [Task no:-1](https://trailhead.salesforce.com/content/learn/modules/data_modeling?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
@@ -70,8 +70,8 @@
     - Branch is Deleted Automatically Students also Delete
     - Parent is Deleted Automatically Child also Delete
 
----------------------------------------------------------------------------------------------------------------------------------------------
-**DAY-4-03-02-2022
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+**DAY-4-03-02-2022**
 - VIDEO LINK:
 - **DISCUSSED TOPICS:-**
 - **Lookup Relationship:-**
@@ -110,7 +110,7 @@
 - [TASK-NO-2](https://trailhead.salesforce.com/en/content/learn/projects/build-a-data-model-for-a-recruiting-app)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-Day-5-(04-02-2021)
+**Day-5-(04-02-2021)**
 - VIDEO LINK:
 - **DISCUSSED TOPICS:-**
 - **APP CREATION:-**
@@ -148,7 +148,7 @@ Day-5-(04-02-2021)
   3. **Leads & Opportunities for Lightning Experience:-(4/4)**
      - [Leads & Opportunities for Lightning Experience](https://trailhead.salesforce.com/content/learn/modules/leads_opportunities_lightning_experience?trailmix_creator_id=digitalbhardwaj&trailmix_slug=for-absolute-beginners)
 
--------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 **Day-6-(07-02-2022)**
 - VIDEO LINK:
 - **DISCUSSED TOPICS:-**
@@ -168,7 +168,8 @@ Day-5-(04-02-2021)
 - **Task Links:-no-4**
   1. **Create Validation Rules:-(1/1)**
 - [Create Validation Rules](https://trailhead.salesforce.com/en/content/learn/modules/point_click_business_logic/validation_rules)
--------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
 **Day-7--(08-02-2022)**
 - video link:
 - **DISCUSSED TOPICS:-**
@@ -186,7 +187,8 @@ Day-5-(04-02-2021)
       - [Formulas and Validations](https://trailhead.salesforce.com/en/content/learn/modules/point_click_business_logic)
 - **Roll-Up Creation:-**
 - A read-only field that displays the sum, minimum, or maximum value of a field in a related list or the record count of all records listed in a related list.
--------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 **DAY-8--09-02-2022**
 - **DISCUSSED TOPICS:-**
 - **Record Type Creation:-**
@@ -219,7 +221,8 @@ Day-5-(04-02-2021)
       - page layout to use--blockchain pagelayout to blockchain student
       - page layout to use--salesforce pagelayout to salesforce student
       -save
--------------------------------
+      
+------------------------------------------------------------------------------------------------------------------------------------------
 **DAY-9--11-02-2022**
 - **DISCUSSED TOPICS:-**
 - its showing  which field is showing in select field record
@@ -250,7 +253,7 @@ Day-5-(04-02-2021)
   1. **Write SOQL Queries:-(0/1)**
 - [Write SOQL Queries](https://trailhead.salesforce.com/en/content/learn/modules/apex_database/apex_database_soql)
 
-------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
 **DAY-10--12-02-2022**
 - **DISCUSSED TOPICS:-**
   -  Write SOQL Queries
@@ -308,7 +311,7 @@ Day-5-(04-02-2021)
   - **Data Security:(7/7)**
     - [Data Security](https://trailhead.salesforce.com/en/content/learn/modules/data_security)
 
--------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------
 **day-12--17-02-2021**
 - **DISCUSSED TOPICS:-**
   - **Data Security:**
@@ -367,7 +370,7 @@ Day-5-(04-02-2021)
             - it is direct to share the record
             - goto record value and select content--search to user--save
 
-----------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
 **day-13--18-02-2022**
 - **DISCUSSED TOPICS:-**
 - **Assignment Rules:**
